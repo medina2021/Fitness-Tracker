@@ -14,6 +14,7 @@ After visiting the site, a user will be able to:
   * View the total duration of each workout from the past seven workouts on the `stats` page.
 
 ## URL to Deployed Application
-  * 
-
-  * 
+ Heroku:
+  * https://whispering-ridge-46376.herokuapp.com/
+  GithubPage:
+  * https://github.com/medina2021/Fitness-Tracker
