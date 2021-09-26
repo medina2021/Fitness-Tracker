@@ -16,5 +16,6 @@ After visiting the site, a user will be able to:
 ## URL to Deployed Application
  Heroku:
   * https://whispering-ridge-46376.herokuapp.com/
+  
   GithubPage:
   * https://github.com/medina2021/Fitness-Tracker
